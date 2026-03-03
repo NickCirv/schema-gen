@@ -1,0 +1,24 @@
+{
+  "name": "schema-gen",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Generate JSON Schema from sample data — infer types, formats, and required fields automatically",
+  "bin": {
+    "schema-gen": "./index.js",
+    "sgen": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "json-schema",
+    "schema",
+    "validation",
+    "codegen"
+  ],
+  "license": "MIT"
+}
