@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # schema-gen
 
 Generate JSON Schema Draft-7 from sample JSON data. Infers types, required fields, formats, and constraints from real data — zero dependencies.
